@@ -1,0 +1,227 @@
+.a{
+    height: 1500px;
+    width: auto;
+    background-color: lightgray;
+}
+.b{
+    height: 80px;
+    width:auto;
+    background-color: white;
+    position: relative;
+    top: 30px;
+}
+.c{
+    height: 50px;
+    width: 150px;
+    background-color: green;
+    float: left;
+    margin-top: 15px;
+    margin-left: 300px;
+}
+.d{
+    height: 50px;
+    width: 150px;
+    background-color: skyblue;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.e{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.f{
+    color: white;
+    float: left;
+    font-size: 23px;
+    margin-left: 28px;
+    margin-top: 2px;
+}
+.g{
+    height: 600px;
+    width: 530px;
+    float: left;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 180px;
+}
+.h{
+    height: 600px;
+    width: 530px;
+    float: left;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.i{
+    height: 600px;
+    width: 530px;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+.j{
+    height: 600px;
+    width: 530px;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.k{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    background-image: url(../capsproject/imagesproject/9723582.jpg);
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.k1{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    background-image: url(../capsproject/imagesproject/9723582.jpg);
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.k2{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    background-image: url(../capsproject/imagesproject/9723582.jpg);
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.k3{
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+    background-image: url(../capsproject/imagesproject/9723582.jpg);
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.l{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    bottom: 100px;
+    left: 230px;
+}
+.m{
+    font-size: 25px;
+    float: left;
+    position: relative;
+    bottom: 60px;
+    left: 110px;
+}
+.vl{
+    border-left: 3px solid lightgray;
+    height: 350px;
+    margin-left: 118px;
+}
+.gr{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: rgb(13, 232, 163);
+    position: relative;
+    left: 105px;
+    bottom: 300px;
+}
+.n{
+    font-size: 22px;
+    float: left;
+    position: relative;
+    bottom: 340px;
+    left: 150px;
+}
+.o{
+    font-size: 23px;
+    color: gray;
+    float: left;
+    position: relative;
+    bottom: 300px;
+    left: 30px;
+}
+.p{
+    font-size: 22px;
+    color: gray;
+    float: left;
+    position: relative;
+    bottom: 340px;
+    left: 30px;
+}
+.gr1{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: rgb(13, 232, 163);
+    position: relative;
+    left: 105px;
+    bottom: 220px;
+}
+.n1{
+    font-size: 22px;
+    float: left;
+    position: relative;
+    bottom: 260px;
+    left: 150px;
+}
+.o1{
+    font-size: 23px;
+    color: gray;
+    float: left;
+    position: relative;
+    bottom: 220px;
+    left: 30px;
+}
+.p1{
+    font-size: 22px;
+    color: gray;
+    float: left;
+    position: relative;
+    bottom: 260px;
+    left: 30px;
+}
+.gr2{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    background-color: rgb(13, 232, 163);
+    position: relative;
+    left: 105px;
+    bottom: 140px;
+}
+.n2{
+    font-size: 22px;
+    float: left;
+    position: relative;
+    bottom: 180px;
+    left: 150px;
+}
+.o2{
+    font-size: 23px;
+    color: gray;
+    float: left;
+    position: relative;
+    bottom: 140px;
+    left: 30px;
+}
+.p2{
+    font-size: 22px;
+    color: gray;
+    float: left;
+    position: relative;
+    bottom: 180px;
+    left: 30px;
+}

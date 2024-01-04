@@ -1,0 +1,609 @@
+.a{
+    height: 2000px;
+    width: 1500px;
+}
+.bb{
+    height: 250px;
+    width: 1400px;
+}
+.b{
+    height: 800px;
+    width: 1400px;
+    background-color: blue;
+}
+.c{
+    height: 600px;
+    width: 1214px;
+    border: 2px solid;
+    background-color: beige;
+    position: relative;
+    top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.d{
+    height: 600px;
+    width: 600px;
+    border: 2px solid;
+    float: left;
+    background-image: url(../capsproject/imagesproject/p1111.jpg);
+    background-size: cover;
+}
+.e{
+    height: 600px;
+    width: 600px;
+    border: 2px solid;
+    float: right;
+}
+.z{
+    font-size: 60px;
+    color: red;
+    float: left;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.y{
+    font-size: 60px;
+    color: red;
+    float: left;
+    margin-left: 70px;
+}
+.x{
+    float: left;
+    margin-left: 70px;
+    font-size: 20px;
+}
+.u{
+    height: 950px;
+    width: 1400px;
+    background-image: url(../capsproject/imagesproject/SL-120722-54440-13.jpg);
+    background-size: cover;
+}
+.v{
+    font-size: 100px;
+    margin-top: 200px;
+    margin-left: 500px;
+    float: left;
+}
+.s{
+    margin-top: 100px;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    float: left;
+}
+.t{
+    height: 950px;
+    width: 1400px;
+    margin-top: 50px;
+    background-color: lightgray;
+}
+.q{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    background-color: pink;
+    float: left;
+    margin-top: 150px;
+    margin-left: 600px;
+    position: absolute;
+}
+.p{
+    height: 500px;
+    width: 500px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/p3.jpg);
+    background-size: cover;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+.o{
+    height: 500px;
+    width: 500px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/p2.jpg);
+    background-size: cover;
+    position: relative;
+    top: 450px;
+    left: 0px;
+}
+.n{
+    height: 500px;
+    width: 500px;
+    float: right;
+    background-color: white;
+    position: relative;
+    right: 100px;
+    bottom: 250px;
+}
+.m{
+    height: 950px;
+    width: 1400px;
+    background-color: blue;
+}
+.l{
+    font-size: 70px;
+    float: left;
+    margin-top: 70px;
+    margin-left: 400px;
+    color: white;
+}
+.k{
+    font-size: 22px;
+    color: white;
+    float: left;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 0px;
+}
+.j{
+    height: 500px;
+    width: 350px;
+    background-color: white;
+    float: left;
+    margin-left: 200px;
+}
+.h{
+    height: 500px;
+    width: 350px;
+    background-color: white;
+    float: left;
+    margin-left: 30px;
+}
+.i{
+    height: 500px;
+    width: 350px;
+    background-color: white;
+    float: left;
+    margin-left: 30px;
+}
+.f{
+    height: 200px;
+    width: 200px;
+    background-image: url(../capsproject/imagesproject/pppp.jpg);
+    background-size: cover;
+    border: 6px solid blue;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.g{
+    height: 200px;
+    width: 200px;
+    background-image: url(../capsproject/imagesproject/1729.jpg);
+    background-size: cover;
+    border: 6px solid blue;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.aa{
+    height: 200px;
+    width: 200px;
+    background-image: url(../capsproject/imagesproject/65824.jpg);
+    background-size: cover;
+    border: 6px solid blue;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+#a{
+    font-size: 30px;
+    float: left;
+    margin-top: 220px;
+    margin-left: 10px;
+}
+#b{
+    font-size: 20px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+#c{
+    font-size: 20px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 70px;
+}
+#d{
+    font-size: 20px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 70px;
+}
+#e{
+    height: 1000px;
+    width: 1400px;
+    background-image: url(../capsproject/imagesproject/29887025_sl_032421_41660_19.jpg);
+    background-size: cover;
+}
+#f{
+    font-size: 70px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+#g{
+    float: left;
+    font-size: 23px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+}
+#h{
+    height: 250px;
+    width: 300px;
+    float: left;
+    margin-left: 270px;
+    margin-top: 30px;
+}
+#i{
+    height: 250px;
+    width: 300px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#j{
+    height: 250px;
+    width: 300px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#k{
+    float: right;
+    margin-left: 80px;
+    font-size: 18px;
+    margin-right: 20px;
+}
+#l{
+    height: 950px;
+    width: 1400px;
+    background-color: blue;
+    padding-top: 50px;
+
+}
+#m{
+    font-size: 80px;
+    float: left;
+    color: white;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+#n{
+    font-size: 24px;
+    float: left;
+    color: white;
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#o{
+    height: 400px;
+    width: 600px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 80px;
+    background-color: white;
+}
+#p{
+    height: 400px;
+    width: 600px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+}
+#q{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-image: url(../capsproject/imagesproject/9722694.png);
+    background-size: cover;
+    float: left;
+    margin: 30px;
+}
+#qq{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-image: url(../capsproject/imagesproject/haired-woman.jpg);
+    background-size: cover;
+    float: left;
+    margin: 30px;
+}
+#r{
+    font-size: 20px;
+    float: left;
+    position: relative;
+    left: 250px;
+    color: gray;
+}
+#s{
+    font-size: 30px;
+    color: rgb(250, 10, 50);
+    float: left;
+    position: relative;
+    left: 250px;
+
+}
+#t{
+    font-size: 17px;
+    float: left;
+    position: relative;
+    left: 250px;
+    right: 0px;
+}
+#u{
+    font-size: 40px;
+    float: left;
+    color: rgb(250, 7, 47);
+    position: relative;
+    left: 250px;
+    top: 20px;
+}
+#v{
+    font-size: 40px;
+    float: left;
+    color: rgb(250, 7, 47);
+    position: relative;
+    left: 270px;
+    top: 20px;
+}
+#w{
+    height: 1000px;
+    width: 1400px;
+}
+#x{
+    height: 990px;
+    float: right;
+    width: 700px;
+    background-color: lightgray;
+}
+#y{
+    height: 800px;
+    width: 700px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/researcher-working-new-self-driving-car-model.jpg);
+    background-size: cover;
+    position: relative;
+    left: 550px;
+    bottom: 500px;
+}
+#z{
+    height: 300px;
+    width: 400px;
+    float: right;
+    border-right: 8px solid red;
+    border-bottom: 8px solid red;
+    position: relative;
+    right: 100px;
+    top: 650px;
+    bottom: 50px;
+}
+.a1{
+    height: 600px;
+    width: 500px;
+    float: left;
+    position: relative;
+    left: 30px;
+    top: 200px;
+}
+.b1{
+    height: 150px;
+    width: 150px;
+    float: left;
+    border-top: 9px solid rgb(237, 9, 47);
+}
+.c1{
+    font-size: 40px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+.d1{
+    font-size: 20px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.e1{
+    height: 1500px;
+    width: 1400px;
+    background-color: blue;
+}
+.h1{
+    height: 2500px;
+    width: 1500px;
+}
+.f1{
+    font-size: 80px;
+    color: white;
+    float: left;
+    position: relative;
+    right: 300px;
+    top: 100px;
+}
+.g1{
+    float: left;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 200px;
+    left: 350px;
+}
+.i1{
+    height: 300px;
+    width: 300px;
+    background-image: url(../capsproject/imagesproject/coworkers-team-working-manager-concept.jpg);
+    background-size: cover;
+    border-radius: 30px;
+    border: 6px solid white;
+    float: left;
+    position: relative;
+    right: 500px;
+}
+.j1{
+    height: 300px;
+    width: 300px;
+    background-image: url(../capsproject/imagesproject/colleagues-working-office-relaxed-atmosphere\ \(1\).jpg);
+    background-size: cover;
+    border-radius: 30px;
+    border: 6px solid white;
+    float: left;
+    position: relative;
+    right: 810px;
+    top: 320px;
+}
+.k1{
+    height: 300px;
+    width: 300px;
+    background-image: url(../capsproject/imagesproject/p2.jpg);
+    background-size: cover;
+    border-radius: 30px;
+    border: 6px solid white;
+    float: left;
+    position: relative;
+    top: 390px;
+    left: 210px;
+}
+.m1{
+    height: 1500px;
+    width: 1400px;
+    background-color: lightgray;
+}
+.n1{
+    height: 1000px;
+    width: 750px;
+    background-color: rgb(240, 93, 117);
+    float: left;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.o1{
+    height: 350px;
+    width: 330px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/1729.jpg);
+    background-size: cover;
+    position: relative;
+    top: 200px;
+    right: 870px;
+}
+.p1{
+    height: 350px;
+    width: 330px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/787.jpg);
+    background-size: cover;
+    position: relative;
+    right: 500px;
+    bottom: 150px;
+}
+.q1{
+    height: 350px;
+    width: 330px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/pnppn.jpg);
+    background-size: cover;
+    position: relative;
+    right: 120px;
+    bottom: 500px;
+}
+.r1{
+    height: 350px;
+    width: 330px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/colorful-3d-shapes-vaporwave-style.jpg);
+    background-size: cover;
+    position: relative;
+    right: 870px;
+    bottom: 450px;
+}
+.s1{
+    height: 350px;
+    width: 330px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/pink1.jpg);
+    background-size: cover;
+    position: relative;
+    left: 550px;
+    bottom: 800px;
+}
+.t1{
+    height: 350px;
+    width: 330px;
+    float: left;
+    background-image: url(../capsproject/imagesproject/mobile-phone-app-streaming-music.jpg);
+    background-size: cover;
+    position: relative;
+    left: 600px;
+    bottom: 800px;
+}
+.u1{
+    height: 450px;
+    width: 560px;
+    background-color: white;
+    position: relative;
+    top: 900px;
+    left: 300px;
+}
+.z1{
+    height: 1200px;
+    width: 1400px;
+    background-color: aqua;
+}
+.w1{
+    height: 950px;
+    width: 1400px;
+    background-image: url(../capsproject/imagesproject/18220901_v1016-c-08.jpg);
+    background-size: cover;
+}
+.x1{
+    height: 250px;
+    width: 1400px;
+    background-color: rgb(55, 54, 54);
+}
+#a1{
+    height: 650px;
+    width: 700px;
+    background-color: white;
+    position: relative;
+    top: 150px;
+}
+#b1{
+    position: relative;
+    top: 300px;
+    font-size: 40px;
+    right: 400px;
+    float: left;
+}
+#c1{
+    position: relative;
+    top: 260px;
+    font-size: 40px;
+    right: 340px;
+    float: left;
+}
+#d1{
+    position: relative;
+    top: 210px;
+    font-size: 40px;
+    right: 320px;
+    float: right;
+}
+#e1{
+    position: relative;
+    top: 210px;
+    font-size: 40px;
+    right: 240px;
+    float: right;
+}
+#v1{
+    position: relative;
+    top: 165px;
+    font-size: 40px;
+    right: 220px;
+    float: right;
+}

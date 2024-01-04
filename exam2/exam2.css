@@ -1,0 +1,105 @@
+.a{
+    height: 600px;
+    width: auto;
+    background-color: lightgray;
+}
+.b{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    border-radius: 50px;
+    position: relative;
+    top: 100px;
+    left: 80px;
+}
+.c{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    border-radius: 50px;
+    position: relative;
+    top: 100px;
+    left: 140px;
+}
+.d{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    border-radius: 50px;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.e{
+    font-size: 29px;
+    font-weight: bold;
+    position: relative;
+    top: 160px;
+    left: 30px;
+    float: left;
+}
+.z{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    background-image: url(./33333.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.y{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    background-image: url(../exam2/222222.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.x{
+    height: 100px;
+    width: 100px;
+    background-color: skyblue;
+    background-image: url(../exam2/11111.png);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.f{
+    color: lightgray;
+    font-size: 20px;
+    float: left;
+    text-align: center;
+    position: relative;
+    top: 90px;
+    left: 40px;
+}
+.g{
+    height: 3px;
+    width: 340px;
+    background-color: blue;
+    float: left;
+    position: relative;
+    top: 90px;
+    left: 30px;
+}
+.h{
+    height: 50px;
+    width: 200px;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+    float: left;
+    position: relative;
+    top: 110px;
+    left: 100px;
+}

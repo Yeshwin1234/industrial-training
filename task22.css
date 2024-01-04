@@ -1,0 +1,177 @@
+.a{
+    height: 1500px;
+    width: 100%;
+    background-color: white;
+}
+.b{
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 75px;
+}
+.c{
+    height: 450px;
+    width: 400px;
+    background-color: lightgray;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 125px;
+}
+.d{
+    height: 450px;
+    width: 400px;
+    background-color: rgb(228, 213, 194);
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 175px;
+}
+.e{
+    height: 450px;
+    width: 400px;
+    background-color: rgba(249, 225, 229, 0.797);
+    float: left;
+    position: relative;
+    top: 130px;
+    left: 75px;
+}
+.f{
+    height: 450px;
+    width: 400px;
+    background-color: lightgray;
+    float: left;
+    position: relative;
+    top: 130px;
+    left: 125px;
+}
+.g{
+    height: 450px;
+    width: 400px;
+    background-color: rgba(249, 225, 229, 0.797);
+    float: left;
+    position: relative;
+    top: 130px;
+    left: 175px;
+}
+.h{
+    font-weight: bold;
+    font-size: 50px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+}
+.i{
+    font-size: 22px;
+    position: relative;
+    text-align: left;
+    top: 90px;
+    left: 30px;
+}
+.j{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(245, 11, 245);
+    position: relative;
+    top: 100px;
+    left: 30px;
+}
+.k{
+    height: 125px;
+    width: 125px;
+    background-image: url(../capsproject/imagesproject/v1.jpg);
+    background-size: cover;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+.l{
+    height: 125px;
+    width: 125px;
+    background-image: url(../capsproject/imagesproject/v2.jpg);
+    background-size: cover;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+.m{
+    height: 125px;
+    width: 125px;
+    background-image: url(../capsproject/imagesproject/v1.jpg);
+    background-size: cover;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+.n{
+    height: 125px;
+    width: 125px;
+    background-image: url(../capsproject/imagesproject/v1.jpg);
+    background-size: cover;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+.o{
+    height: 125px;
+    width: 125px;
+    background-image: url(../capsproject/imagesproject/v1.jpg);
+    background-size: cover;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+.p{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    top: 60px;
+    left: 30px;
+}
+.q{
+    height: 25px;
+    width: 25px;
+    border-radius: 12px;
+    float: left;
+    background-color: blue;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+i{
+    color: white;
+    margin: 6px;
+    font-size: 15px;
+}
+.r{
+    font-size: 20px;
+    position: relative;
+    left: 50px;
+    top: 12px;
+}
+.aa{
+    height: 50px;
+    width: 300px;
+    float: left;
+    position: relative;
+    top: 70px;
+}
+.nn{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(245, 11, 245);
+    position: relative;
+    top: 260px;
+    right: 190px;
+}
+.yy{
+    height: 40px;
+    width: 130px;
+    background-color: rgb(245, 11, 245);
+    position: relative;
+    top: 260px;
+    right: 160px;
+}

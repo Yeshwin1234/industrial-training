@@ -1,0 +1,333 @@
+.a{
+    height: 1400px;
+    width: 1000px;
+    background-color: pink;
+}
+.b{
+    height: 1400px;
+    width: 350px;
+    background-color: gray;
+    float: left;
+}
+.c{
+    height: 300px;
+    width: 220px;
+    border: 15px solid white;
+    background-image: url(../capsproject/yeshwin.jpg);
+    background-size: cover;
+    float: left;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+.d{
+    height: 220px;
+    width: 700px;
+    background-color: yellow;
+    position: relative;
+    top: 150px;
+    right: 50px;
+}
+.e{
+    font-size: 80px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    top: 50px;
+    left: 130px;
+}
+.f{
+    font-size: 40px;
+    color: gray;
+    float: left;
+    position: relative;
+    right: 140px;
+    top: 130px;
+}
+.g{
+    float: left;
+    position: relative;
+    left: 90px;
+    font-weight: bold;
+    font-size: 25px;
+    top: 140px;
+}
+.h{
+    float: left;
+    position: relative;
+    left: 90px;
+    font-weight: bold;
+    font-size: 15px;
+    top: 160px;
+}
+.i{
+    float: left;
+    position: relative;
+    left: 90px;
+    font-weight: bold;
+    font-size: 15px;
+    top: 180px;
+}
+.j{
+    float: left;
+    position: relative;
+    left: 90px;
+    font-weight: bold;
+    font-size: 15px;
+    top: 200px;
+}
+.k{
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+    float: left;
+    position: relative;
+    top: 470px;
+    right: 200px;
+}
+.l{
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+    float: left;
+    position: relative;
+    top: 510px;
+    right: 230px;
+}
+.m{
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+    float: left;
+    position: relative;
+    top: 550px;
+    right: 260px;
+}
+.n{
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+    float: left;
+    position: relative;
+    top: 560px;
+    right: 200px;
+}
+.o{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    top: 230px;
+    left: 50px;
+    color: white;
+}
+.p{
+    width: 300px;
+    height: 10px;
+    border-top: 4px solid yellow;
+    float: left;
+    position: relative;
+    top: 240px;
+    left: 50px;
+}
+.q{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    float: left;
+    text-align: left;
+    position: relative;
+    top: 250px;
+    left: 50px;
+}
+.r{
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(244, 236, 236, 0.511);
+    float: left;
+    position: relative;
+    top: 315px;
+    right: 160px;
+}
+.s{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    float: left;
+    text-align: left;
+    position: relative;
+    top: 320px;
+    left: 50px;
+}
+.t{
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(244, 236, 236, 0.511);
+    float: left;
+    position: relative;
+    top: 330px;
+    left: 50px;
+}
+.u{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    top: 380px;
+    right: 47px;
+    color: white;
+}
+.v{
+    width: 300px;
+    height: 10px;
+    border-top: 4px solid yellow;
+    float: left;
+    position: relative;
+    top: 390px;
+    left: 50px;
+}
+.w{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    top: 410px;
+    left: 50px;
+}
+.x{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    top: 440px;
+    right: 50px;
+}
+.y{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    top: 470px;
+    right: 115px;
+}
+.z{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    top: 500px;
+    right: 175px;
+}
+.aa{
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    top: 520px;
+    left: 50px;
+    color: white;
+}
+.bb{
+    width: 300px;
+    height: 10px;
+    border-top: 4px solid yellow;
+    float: left;
+    position: relative;
+    top: 520px;
+    left: 50px;
+}
+.cc{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    top: 520px;
+    left: 50px;
+}
+.dd{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-weight: bold;
+    position: relative;
+    top: 550px;
+    right: 15px;
+}
+.ee{
+    height: 1400px;
+    width: 650px;
+    float: right;
+    background-color: skyblue;
+}
+.ff{
+    font-size: 40px;
+    position: relative;
+    top: 240px;
+    left: 50px;
+    float: left;
+}
+.gg{
+    width: 550px;
+    height: 10px;
+    border-top: 4px solid orange;
+    float: left;
+    position: relative;
+    top: 240px;
+    left: 50px
+}
+.hh{
+    color: gray;
+    font-size: 22px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    top: 240px;
+    left: 90px;
+}
+.ii{
+    font-size: 23px;
+    font-weight: bold;
+    float: left;
+    position: relative;
+    top: 270px;
+    right: 435px;
+}
+.jj{
+    font-size: 23px;
+    font-weight: bold;
+    float: left;
+    color: gray;
+    text-align: left;
+    position: relative;
+    top: 270px;
+    left: 50px;
+}
+.kk{
+    font-size: 40px;
+    position: relative;
+    top: 590px;
+    left: 50px;
+    float: left;
+}
+.ll{
+    width: 550px;
+    height: 10px;
+    border-top: 4px solid orange;
+    float: left;
+    position: relative;
+    top: 590px;
+    left: 50px
+}
+.mm{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    top: 220px;
+    right: 450px;
+    float: left;
+}
